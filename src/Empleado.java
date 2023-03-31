@@ -8,10 +8,7 @@ public class Empleado {
      * Constructor por defecto
      */
     public Empleado(){
-        this.nombre="Alin Piero";
-        this.apellido="Javier";
-        this.edad=27;
-        this.salario=4800.99;
+        this ("Alin Piero", "Javier", 27, 4800.99);
     }
     /**
      * Constructor con 4 parametros
