@@ -5,8 +5,8 @@ public class Main {
         System.out.println("Datos del Empleado:");
         System.out.println("\n========================");
         System.out.println("Nombre = "+emp.nombre);
-        System.out.println("Nombre = "+emp.apellido);
-        System.out.println("Nombre = "+emp.edad);
-        System.out.println("Nombre = "+emp.salario);
+        System.out.println("Apellido = "+emp.apellido);
+        System.out.println("Edad = "+emp.edad);
+        System.out.println("Salario = "+emp.salario);
     }
 }
